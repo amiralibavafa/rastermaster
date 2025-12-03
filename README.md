@@ -2,7 +2,7 @@
 
 ![Rendered Output](output.png)
 
-**SFU CMPT 361 Assignment 4: Rasterizing Lines and Triangles** 💡
+**Rasterizing Lines and Triangles** 💡
 
 RasterMaster 361 is a **WebGL-based project** where you implement shading, texturing, and transformations for triangle meshes. The project allows you to render cubes and spheres, apply **Phong shading**, add textures, and transform your 3D objects with a flexible text input interface.
 
